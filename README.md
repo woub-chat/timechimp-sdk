@@ -10,7 +10,7 @@ This is a package that allows you to call the API of [TimeChimp](https://www.tim
 ## Installation
 You can install the package via compose:
 ```bash
-composer require guapa/timechimp-sdk
+composer require vankevych/timechimp-sdk
 ```
 
 ## Usage
