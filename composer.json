@@ -1,5 +1,5 @@
 {
-  "name": "vankevych/timechimp-sdk",
+  "name": "time-chimp/timechimp-sdk",
   "description": "This is a package that allows you to call the API of TimeChimp",
   "license": "MIT",
   "authors": [
