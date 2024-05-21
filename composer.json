@@ -1,13 +1,7 @@
 {
-  "name": "time-chimp/timechimp-sdk",
+  "name": "woub-chat/timechimp-sdk",
   "description": "This is a package that allows you to call the API of TimeChimp",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Petro Vankevych",
-      "email": "petro@swipex.ua"
-    }
-  ],
   "minimum-stability": "stable",
   "require": {
     "php": ">=7.2",
